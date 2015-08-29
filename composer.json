@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "piv915/oauth2-client": "~dev-master"
+        "piv915/oauth2-client": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.0",
